@@ -1,0 +1,9 @@
+---
+title: uBlacklist-Japanese-clickbait
+---
+title/([0-9]{1,3})選/
+title/【(?!.*(推しの子|公式)).*】/
+title/(って|は誰?|なに|何|る)(\?|\？)/
+title/((方法|ない))(\!|\！)/
+title/(かりやすく|徹底|簡単に)(解説)/
+title/(徹底)(調査|比較)/
