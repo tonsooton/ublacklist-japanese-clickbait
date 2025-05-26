@@ -9,7 +9,7 @@
 ** 使い方
 [[https://iorate.github.io/ublacklist/ja/docs][uBlacklist]]をインストールし、設定画面から以下のURLを購読してください。
 
-#+begin_src
+#+begin_src txt
   https://raw.githubusercontent.com/tonsooton/ublacklist-japanese-clickbait/master/rule.txt
 #+end_src
 
